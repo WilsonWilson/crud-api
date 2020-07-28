@@ -8,7 +8,7 @@
     "devstart": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "pedro pablano",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",

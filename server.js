@@ -8,7 +8,7 @@ const app = express();
 const clientsRouter = require('./routes/clients');
 
 // mount routes
-app.use('/api/v1/clients', clientsRouter);
+app.use('/clients', clientsRouter);
 
 // Connect to DB
 mongoose
